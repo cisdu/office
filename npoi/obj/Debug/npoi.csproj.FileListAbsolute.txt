@@ -1,0 +1,13 @@
+c:\users\administrator\source\repos\npoi\npoi\bin\Debug\npoi.exe.config
+c:\users\administrator\source\repos\npoi\npoi\bin\Debug\npoi.exe
+c:\users\administrator\source\repos\npoi\npoi\bin\Debug\npoi.pdb
+c:\users\administrator\source\repos\npoi\npoi\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\administrator\source\repos\npoi\npoi\bin\Debug\NPOI.dll
+c:\users\administrator\source\repos\npoi\npoi\bin\Debug\NPOI.OOXML.dll
+c:\users\administrator\source\repos\npoi\npoi\bin\Debug\NPOI.OpenXml4Net.dll
+c:\users\administrator\source\repos\npoi\npoi\bin\Debug\NPOI.OpenXmlFormats.dll
+c:\users\administrator\source\repos\npoi\npoi\bin\Debug\NPOI.xml
+c:\users\administrator\source\repos\npoi\npoi\obj\Debug\npoi.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\npoi\npoi\obj\Debug\npoi.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\npoi\npoi\obj\Debug\npoi.exe
+c:\users\administrator\source\repos\npoi\npoi\obj\Debug\npoi.pdb
